@@ -3,7 +3,7 @@
 ## Desenvolvedor Backend com foco em Java e Spring Boot
 
 ### Sobre Mim
-Sou um desenvolvedor backend com muito foco por construir sistemas robustos, escaláveis e de alta performance. 
+Trabalho com desenvolvimento atuando como backend com foco em construir sistemas robustos, escaláveis e de alta performance. 
 Tenho experiência em desenvolvimento de APIs RESTful, microsserviços e integração de sistemas utilizando o ecossistema Spring Boot. 
 Meu objetivo é criar soluções que não apenas atendam às necessidades dos usuários, mas que também sejam eficientes e fáceis de manter.
 
