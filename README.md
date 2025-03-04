@@ -9,23 +9,21 @@ Meu objetivo é criar soluções que não apenas atendam às necessidades dos us
 
 ### 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens**: Java 
+- **Linguagem**: Java 
 - **Frameworks**: Spring Boot, Spring MVC, Spring Data JPA, Spring Security
-- **Banco de Dados**: SQL Server, MySQL, PostgreSQL, MongoDB
+- **Banco de Dados**: MySQL
 - **Versionamento**: Git, GitHub
+- **Testes Automatizados**: SpringBoot Test
 
-### 🚀 Projetos Destacados
+### 🚀 Projetos Destacado
 
 O **Sistema ToDo** é uma aplicação backend desenvolvida para gerenciar tarefas (ToDo). O sistema permite a criação, leitura, atualização e exclusão de tarefas (CRUD), além de oferecer funcionalidades como categorização de tarefas, 
-marcação de conclusão e filtros por status. O projeto foi desenvolvido com foco em boas práticas de programação, arquitetura limpa e escalabilidade.
+marcação de conclusão e filtros por status. O projeto foi desenvolvido com foco em boas práticas de programação e arquitetura limpa.
 
 ### Funcionalidades Principais
 - **CRUD de Tarefas**: Criação, leitura, atualização e exclusão de tarefas.
-- **Categorização**: Possibilidade de adicionar categorias às tarefas.
+- **Prioridades**: Possibilidade de adicionar categorias às tarefas.
 - **Status de Conclusão**: Marcar tarefas como concluídas ou pendentes.
-- **Filtros**: Filtrar tarefas por status (concluídas, pendentes) ou categoria.
-- **Autenticação e Autorização**: Proteção das rotas com Spring Security e JWT.
-
 
 ### 📫 Como Entrar em Contato
 
