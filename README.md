@@ -1,7 +1,6 @@
 # Olá, eu sou [Eduardo Terra] 👋
 
 ## Desenvolvedor Backend com foco em Java e Spring Boot
-## Acesse meu portifolio --> (projetos.terrainfo.com.br)
 
 ### Sobre Mim
 Trabalho com desenvolvimento atuando como backend com foco em construir sistemas robustos, escaláveis e de alta performance. 
@@ -13,8 +12,7 @@ Meu objetivo é criar soluções que não apenas atendam às necessidades dos us
 - **Linguagens**: Java 
 - **Frameworks**: Spring Boot, Spring MVC, Spring Data JPA, Spring Security
 - **Banco de Dados**: SQL Server, MySQL, PostgreSQL, MongoDB
-- **Versionamento**: Git, GitHub, GitLab
-- **Cloud**: AWS, Docker, Kubernetes
+- **Versionamento**: Git, GitHub
 
 ### 🚀 Projetos Destacados
 
